@@ -24,4 +24,10 @@ The precision values are the same again, with the 0.01 with the low risk and the
 
 ### SMOTEENN Sampling
 ![SMOTEENN](Resources/SMOTEENN.png)
+
+### Balanced Random Forest Sampling
+![Balanced](Resources/Balanced.png)
+
+### Easy Ensemble Sampling
+![EasyEnsemable](Resources/EasyEnsemable.png)
 ## Summary
