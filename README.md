@@ -11,5 +11,17 @@ The results of this analysis is concusive. We have the following analyses:
 - Easy Ensemble Sampling
 
 ### Naive Sampling
-![NaiveSampling](../Resources/NaiveSampling.png)
+The precision of the sampling of the high risk is a 0.01, meaning that it didn't caught almost all of the high risk credit. The low risk is at a 1 meaning that the precision of the low risk is greater. 
+![NaiveSampling](Resources/NaiveSampling.png)
+
+### SMOTE Over Sampling
+The precision is similar to the Naive sampling, with the same precision values. 
+![SMOTE](Resources/SMOTE.png)
+
+### Undersampling
+The precision values are the same again, with the 0.01 with the low risk and the 1.00 for the high risk. 
+![Undersampling](Resources/Undersampling.png)
+
+### SMOTEENN Sampling
+![SMOTEENN](Resources/SMOTEENN.png)
 ## Summary
