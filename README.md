@@ -9,4 +9,6 @@ The results of this analysis is concusive. We have the following analyses:
 - SMOTEENN Sampling
 - Balanced Random Forest Sampling
 - Easy Ensemble Sampling
+
+### Naive Sampling
 ## Summary
