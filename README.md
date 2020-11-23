@@ -11,4 +11,5 @@ The results of this analysis is concusive. We have the following analyses:
 - Easy Ensemble Sampling
 
 ### Naive Sampling
+![NaiveSampling](../Resources/NaiveSampling.png)
 ## Summary
